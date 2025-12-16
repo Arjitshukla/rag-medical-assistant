@@ -48,11 +48,10 @@ Now,
 open up localhost: http://127.0.0.1:8080/
 ```
 ## Images
-1. 
-![Medical Diagram](../rag-medical-assistant/static/Images/img2.png)
-2.
+![Medical Diagram](static/Images/img2.png)
 
-![Medical Diagram](../rag-medical-assistant/static/Images/img1.png)
+
+![Medical Diagram](static/Images/img1.png)
 
 
 ### Techstack Used:
