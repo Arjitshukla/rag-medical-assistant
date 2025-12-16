@@ -5,7 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+# FAISS / Vector DB
+faiss_index/
 
+# Packaging
+*.egg-info/
 # Distribution / packaging
 .Python
 build/
